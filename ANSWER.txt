@@ -1,0 +1,7 @@
+1. HTML5
+2. !DOCTYPE html> is a declaration that defines the document type and version of HTML being used
+3. Void elements - does not have any content.,E.g:-<br>, <img>, <hr>, <meta>, <link>, and <input>.
+4. Element: An HTML element consists of a start tag, content (optional), and an end tag. For example, <p>This is a paragraph.</p>.Attribute: An attribute provides additional information about an element and is placed within the start tag. For example, <img src="image.jpg" alt="Description">, where src and alt are attributes of the <img> element.
+5. Used to display reserved characters in HTML( &lt,&gt). These are needed to ensure the characters are interpreted correctly by browser 
+6. Meta tags are HTML tags used within the <head> section of an HTML document to provide metadata about the web page. They are used for various purposes, such as specifying character set, author, description, keywords, viewport settings, and more. Meta tags help with SEO, accessibility, and browser behavior.
+7. The best way to add images to a website is by using the <img> tag with appropriate attributes for accessibility and responsiveness.
